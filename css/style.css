@@ -142,6 +142,7 @@ body {
 }
 .body__button:hover {
   background-color: hsl(300deg, 69%, 71%);
+  color:white;
 }
 
 .footer {
